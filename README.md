@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at **Functionup school of technology**
 
-- 🌱 I’m currently learning **Webdevelopment,react.js**
+- 🌱 I’m currently learning **Webdevelopment**
 
-- 📫 How to reach me **spkyji15@gmail.com**
+- 📫 How to reach me **spkji15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
