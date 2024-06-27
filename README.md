@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhspky" alt="saurabhspky" /></a> </p>
 
-- 🔭 I’m currently working at **Functionup school of technology**
+- 🔭 I’m currently working at **IIT PATNA**
 
 - 🌱 I’m currently learning **Webdevelopment**
 
