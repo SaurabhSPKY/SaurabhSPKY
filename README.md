@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhspky" alt="saurabhspky" /></a> </p>
 
-- 🔭 I’m currently working at **IIT PATNA**
+- 🔭 I’m currently studying at **IIT PATNA**
 
-- 🌱 I’m currently learning **Webdevelopment**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **spkji15@gmail.com**
 
